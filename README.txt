@@ -1,4 +1,5 @@
 Command to run the program : ./master -i input.txt 
+Command to run the program with 64 inputs : ./master -i input-64.txt
 
 Usage: ./master OPTIONS
 
